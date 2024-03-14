@@ -12,15 +12,15 @@ By using `StandardScaler`, scale the `X_train` and `X_test` DataFrames.
 ## Create and Fit a Logistic Regression Model
 Created a Logistic Regression model, fit it to the training data, made predictions with the testing data, and printed the model's accuracy score.
 
-Training Data Score: 0.9310144927536231
-Testing Data Score: 0.9278887923544744
+* Training Data Score: 0.9310144927536231
+* Testing Data Score: 0.9278887923544744
 
 ## Create and Fit a Random Forest Classifier Model
 
 Created a Random Forest Classifier model, fit it to the training data, made predictions with the testing data, and printed the model's accuracy score.
 
-Training Data Score: 0.9997101449275362
-Testing Data Score: 0.9278887923544744
+* Training Data Score: 0.9997101449275362
+* Testing Data Score: 0.9278887923544744
 
 ## Evaluate the Models
 
