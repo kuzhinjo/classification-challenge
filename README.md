@@ -26,11 +26,11 @@ Created a Random Forest Classifier model, fit it to the training data, made pred
 
 Which model performed better? How does that compare to your prediction? Write down your results and thoughts in the following markdown cell.
 
-### Observations:
+#### Observations:
 In terms of accuracy Random Forest Classifier model is the better one.
 However the training Vs testing data score looks good for Logistic Regression Model.
 
-### Next Step:
+#### Next Step:
 By considering this, i would like to fine tune the data further for both the models and reassess the solution again.
 
 
